@@ -1,6 +1,6 @@
 {
   "name": "@cicciocoin/ethereum-block-number",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get Ethereum block number where do you want",
   "main": "ethereumBlockNumber.js",
   "dependencies": {
